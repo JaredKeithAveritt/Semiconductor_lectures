@@ -2,6 +2,7 @@
 - [1. Introduction to Semiconductor Industry and Technologies](https://github.com/JaredKeithAveritt/Semiconductor_lectures/blob/main/Outline.md#first-lecture-introduction-to-semiconductor-industry-and-technologies)
 - [2. Materials Science in Semiconductor Fabrication](https://github.com/JaredKeithAveritt/Semiconductor_lectures/blob/main/Outline.md#second-lecture-materials-science-in-semiconductor-fabrication)
 - [3. Semiconductor Device Physics](https://github.com/JaredKeithAveritt/Semiconductor_lectures/blob/main/Outline.md#third-lecture-semiconductor-device-physics)
+- [4. Design and Manufacturing of Semiconductor Devices](https://github.com/JaredKeithAveritt/Semiconductor_lectures/blob/main/Outline.md#fourth-lecture-Design-and-Manufacturing-of-Semiconductor-Devices)
 
 # first lecture, "Introduction to Semiconductor Industry and Technologies" 
 
