@@ -1,5 +1,4 @@
-# **Table of Contents
-**
+# Table of Contents
 (1. Introduction to Semiconductor Industry and Technologies)[https://github.com/JaredKeithAveritt/Semiconductor_lectures/blob/main/Outline.md#first-lecture-semiconductor-industry-and-technologies] 
 (2. Materials Science in Semiconductor Fabrication)[https://github.com/JaredKeithAveritt/Semiconductor_lectures/blob/main/Outline.md#third-lecture-materials-science-in-semiconductor-fabrication]
 (3. Semiconductor Device Physics)[https://github.com/JaredKeithAveritt/Semiconductor_lectures/blob/main/Outline.md#third-lecture-semiconductor-device-physics]
