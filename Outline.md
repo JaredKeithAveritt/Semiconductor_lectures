@@ -3,6 +3,13 @@
 - [2. Materials Science in Semiconductor Fabrication](https://github.com/JaredKeithAveritt/Semiconductor_lectures/blob/main/Outline.md#second-lecture-materials-science-in-semiconductor-fabrication)
 - [3. Semiconductor Device Physics](https://github.com/JaredKeithAveritt/Semiconductor_lectures/blob/main/Outline.md#third-lecture-semiconductor-device-physics)
 - [4. Design and Manufacturing of Semiconductor Devices](https://github.com/JaredKeithAveritt/Semiconductor_lectures/blob/main/Outline.md#fourth-lecture-Design-and-Manufacturing-of-Semiconductor-Devices)
+- [5. Introduction to Integrated Circuits and VLSI](https://github.com/JaredKeithAveritt/Semiconductor_lectures/blob/main/Outline.md#fifth-lecture-Introduction-to-Integrated-Circuits-and-VLSI)
+- [6. Quality Control and Reliability in Semiconductor Manufacturing](https://github.com/JaredKeithAveritt/Semiconductor_lectures/blob/main/Outline.md#sixth-lecture-Quality-Control-and-Reliability-in-Semiconductor-Manufacturing)
+- [7. Emerging Technologies in the Semiconductor Industry](https://github.com/JaredKeithAveritt/Semiconductor_lectures/blob/main/Outline.md#seventh-lecture-Emerging-Technologies-in-the-Semiconductor-Industry)
+- [8. Career Paths and Opportunities in the Semiconductor Sector](https://github.com/JaredKeithAveritt/Semiconductor_lectures/blob/main/Outline.md#eigth-lecture-Career-Paths-and-Opportunities-in-the-Semiconductor-Sector)
+
+
+---
 
 # first lecture, "Introduction to Semiconductor Industry and Technologies" 
 
@@ -517,9 +524,7 @@
 - Open floor for questions and discussion.
 - Provide additional resources for further reading and learning.
 
-
-
-
+---
 
 # seventh lecture, "Emerging Technologies in the Semiconductor Industry," 
 
@@ -611,10 +616,9 @@
 - Open floor for questions and discussion.
 - Provide additional resources for further reading and learning.
 
+---
 
-
-
-# eighth lecture, "Career Paths and Opportunities in the Semiconductor Sector," 
+# Eighth lecture, Career Paths and Opportunities in the Semiconductor Sector 
 
 ### Slide 1: Introduction
 - Title: Career Paths and Opportunities in the Semiconductor Sector
