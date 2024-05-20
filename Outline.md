@@ -11,7 +11,7 @@
 
 ---
 
-# first lecture, "Introduction to Semiconductor Industry and Technologies" 
+# First lecture, "Introduction to Semiconductor Industry and Technologies" 
 
 ### Slide 1: Introduction
 - Title: Introduction to Semiconductor Industry and Technologies
@@ -169,11 +169,9 @@
 - Open floor for questions and discussion.
 - Provide additional resources for further reading and learning.
 
+---
 
-
-
-
-# third lecture, "Semiconductor Device Physics," 
+# Third lecture, "Semiconductor Device Physics" 
 
 ### Slide 1: Introduction
 - Title: Semiconductor Device Physics
@@ -254,10 +252,9 @@
 - Open floor for questions and discussion.
 - Provide additional resources for further reading and learning.
 
+---
 
-
-
-# fourth lecture, "Design and Manufacturing of Semiconductor Devices,"
+# Fourth lecture, "Design and Manufacturing of Semiconductor Devices"
 
 ### Slide 1: Introduction
 - Title: Design and Manufacturing of Semiconductor Devices
@@ -336,11 +333,9 @@
 - Open floor for questions and discussion.
 - Provide additional resources for further reading and learning.
 
+---
 
-
-
-
-# fifth lecture, "Introduction to Integrated Circuits and VLSI," 
+# Fifth lecture, "Introduction to Integrated Circuits and VLSI" 
 
 ### Slide 1: Introduction
 - Title: Introduction to Integrated Circuits and VLSI
@@ -436,11 +431,9 @@
 - Open floor for questions and discussion.
 - Provide additional resources for further reading and learning.
 
+---
 
-
-
-
-# sixth lecture, "Quality Control and Reliability in Semiconductor Manufacturing," 
+# Sixth lecture, "Quality Control and Reliability in Semiconductor Manufacturing" 
 
 ### Slide 1: Introduction
 - Title: Quality Control and Reliability in Semiconductor Manufacturing
@@ -526,7 +519,7 @@
 
 ---
 
-# seventh lecture, "Emerging Technologies in the Semiconductor Industry," 
+# Seventh lecture, "Emerging Technologies in the Semiconductor Industry" 
 
 ### Slide 1: Introduction
 - Title: Emerging Technologies in the Semiconductor Industry
@@ -618,7 +611,7 @@
 
 ---
 
-# Eighth lecture, Career Paths and Opportunities in the Semiconductor Sector 
+# Eighth lecture, "Career Paths and Opportunities in the Semiconductor Sector" 
 
 ### Slide 1: Introduction
 - Title: Career Paths and Opportunities in the Semiconductor Sector
